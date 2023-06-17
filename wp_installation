@@ -1,6 +1,3 @@
-YouTube video link: https://youtu.be/8Uofkq718n8
-All the commands that are executed in the above youtube video are mentioned in this gist. 
-
 1. Install Apache server on Ubuntu
 sudo apt install apache2
 
